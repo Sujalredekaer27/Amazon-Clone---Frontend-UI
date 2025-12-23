@@ -2,9 +2,6 @@
 
 A visually accurate Amazon Homepage Clone built to practice advanced CSS layouts, including Flexbox and CSS Grid. This project replicates the core navigation, product display, and footer sections of the Amazon web interface.
 
-#🚀 Live Demo
-[Insert your GitHub Pages link here]
-
 #✨ Key Features
 Dynamic Navbar: Includes the Amazon logo, location selector, search bar with category dropdown, and account/orders links.
 
@@ -27,3 +24,4 @@ FontAwesome: Used for high-quality scalable vector icons (Cart, Location, Search
 
 📜 License
 This project is created for educational purposes and portfolio building. 
+
